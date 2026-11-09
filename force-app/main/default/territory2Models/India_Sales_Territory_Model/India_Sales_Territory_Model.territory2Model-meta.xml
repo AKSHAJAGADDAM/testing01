@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Territory2Model xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <customFields>
+        <name>External_Id__c</name>
+        <value xsi:type="xsd:string">ISTM-12346123401</value>
+    </customFields>
+    <name>India Sales Territory Model</name>
+</Territory2Model>
